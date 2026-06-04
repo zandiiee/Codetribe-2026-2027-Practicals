@@ -1,0 +1,3 @@
+INTERPRETERS
+
+ an interpreter is a program that executes source code directly, line by line.
